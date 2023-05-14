@@ -6,7 +6,7 @@
 
 ## demo
 ・q  
-![](img/demo.gif)  
+![](img/Lax-Wendroff, dt = 0.005, dx = 0.01, c = 1, nu = 0.5.gif)  
 
 ## Author
 T.Nakabayashi
